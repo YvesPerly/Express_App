@@ -1,0 +1,9 @@
+cd C:/Users/DELL/Desktop/LGLSI_2eme_Semestre/Ingénierie-des-Processus/express_app/
+
+cd /c/Users/DELL/Desktop/LGLSI_2eme_Semestre/Ingénierie-des-Processus/TP_MongoDB_Ingenierie_des_Processus
+
+
+start "" "C:\Program Files\Git\bin\sh.exe" --login -i
+
+
+

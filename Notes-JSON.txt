@@ -1,0 +1,7 @@
+Create <===> POST avec un body sans paramétre
+
+Retrieve <==> GET sans body {sans, avec}
+
+UPDATE <===> PUT avec body avec paramétre
+
+DELETE <===> DELETE sans body avec paramétre 
